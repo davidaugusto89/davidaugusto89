@@ -1,5 +1,7 @@
 ## Olá! Eu sou o David Augusto 🖐️
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidaugusto89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
