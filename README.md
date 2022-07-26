@@ -24,7 +24,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-## 📫 Como entrar em contato comigo...
+## 🔗 Links
 <div style="display: inline_block">
   <a href="https://bitbucket.org/david_augusto_89/" target="_blank"><img align="center" alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" /></a><br /><br />
   <a href="https://www.linkedin.com/in/david-augusto-keller-haddad-305a91161/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br /><br />
