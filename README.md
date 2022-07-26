@@ -21,5 +21,5 @@
 <div style="display: inline_block">
   <img align="center" alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img align="center" alt="gitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="curriculo" src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <img align="center" alt="curriculo" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
  </div><br/>
