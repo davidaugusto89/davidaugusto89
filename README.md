@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidaugusto89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🚀 Sobre mim
+Eu sou um Desenvolvedor Full-Stack.
+
 ## 👩‍💻 Trabalho atualmente...
 
 <div style="display: inline_block">
