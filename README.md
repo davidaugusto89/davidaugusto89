@@ -15,11 +15,9 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 - **Backend:** 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-  ![Phalcon](https://img.shields.io/badge/-Phalcon-41B883?style=flat&logo=phalcon&logoColor=white)
-  ![Zend](https://img.shields.io/badge/-Zend-68B604?style=flat&logo=zend-framework&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
 - **Banco de Dados:** 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
