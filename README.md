@@ -13,7 +13,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&&logo=bootstrap&logoColor=white)
   ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&&logo=jquery&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&&logo=vue.js&logoColor=4FC08D)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&&logo=vue.js&logoColor=white)
 
 - **Backend:** 
 
@@ -43,7 +43,6 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&&logo=google-cloud&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 - **Pesquisa e Big Data:** 
 
