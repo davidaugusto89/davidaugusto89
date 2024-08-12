@@ -28,6 +28,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
 
 - **Documentação:**
 
+  ![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge)
   ![PHPDoc](https://img.shields.io/badge/-PHPDoc-777BB4?style=for-the-badge&&logo=php&logoColor=white)
   ![JSDoc](https://img.shields.io/badge/-JSDoc-F7DF1E?style=for-the-badge&&logo=javascript&logoColor=black)
 
