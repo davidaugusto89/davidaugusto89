@@ -28,7 +28,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
 
 - **Documentação:**
 
-  ![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge)
+  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white&style=for-the-badge)
   ![PHPDoc](https://img.shields.io/badge/-PHPDoc-777BB4?style=for-the-badge&&logo=php&logoColor=white)
   ![JSDoc](https://img.shields.io/badge/-JSDoc-F7DF1E?style=for-the-badge&&logo=javascript&logoColor=white)
 
@@ -56,8 +56,8 @@ Atualmente, estou me dedicando a aprender e aprimorar minhas habilidades em:
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&&logo=python&logoColor=white)
   ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&&logo=go&logoColor=white)
-  ![MongoDB](  https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ## Projetos em Desenvolvimento
 
