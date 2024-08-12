@@ -65,7 +65,7 @@ Meu perfil está em manutenção, pois estou desenvolvendo alguns projetos de ex
 
 ## Conecte-se Comigo
 
-Se você deseja discutir tecnologia, colaborar em projetos ou apenas bater um papo, sinta-se à vontade para me adicionar no [LinkedIn](https://www.linkedin.com/in/david-augusto-keller-haddad-305a91161).
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-augusto-keller-haddad-305a91161)
 
 ---
 
