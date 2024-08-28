@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo da minha carreira, desenvolvi habilidades em diversas tecnologias e ferramentas que me permitem construir soluções completas, desde o front-end até o back-end.
+Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo da minha carreira, desenvolvi habilidades em diversas tecnologias e ferramentas que me permitem construir soluções completas, desde o frontend até o backend.
 
 ## Tecnologias e Ferramentas
 
@@ -65,7 +65,7 @@ Meu perfil está em manutenção, pois estou desenvolvendo alguns projetos de ex
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-augusto-keller-haddad-305a91161)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-augusto-keller-haddad)
 
 ---
 
