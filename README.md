@@ -37,6 +37,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
 - **Banco de Dados:** 
 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&&logo=mysql&logoColor=white)
+  ![MariaDBe](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 - **DevOps:** 
