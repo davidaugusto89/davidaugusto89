@@ -44,7 +44,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&&logo=git&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&&logo=google-cloud&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 - **Pesquisa e Big Data:** 
