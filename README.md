@@ -11,6 +11,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&&logo=javascript&logoColor=000)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&&logo=css3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&&logo=bootstrap&logoColor=white)
   ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&&logo=jquery&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&&logo=vue.js&logoColor=white)
