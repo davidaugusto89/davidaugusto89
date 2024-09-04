@@ -19,7 +19,9 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
 
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&&logo=node.js&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&&logo=node.js&logoColor=white)
+  ![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - **Teste Unitário:**
 
@@ -54,7 +56,6 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Ao longo 
 
 Atualmente, estou me dedicando a aprender e aprimorar minhas habilidades em:
 
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&&logo=python&logoColor=white)
   ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&&logo=go&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
